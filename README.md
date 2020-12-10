@@ -1,8 +1,8 @@
 # Leadsqared-QA-Test
 Instructions:
-#• Please answers all the questions below.
-#• Try to be as precise as possible.
-#• The total time to attempt the questions is 60 min
+• Please answers all the questions below.
+• Try to be as precise as possible.
+• The total time to attempt the questions is 60 min
 
 1. You need to write as many test cases as possible for a simple software program which computes the
 eligible discount for a customer. Try to describe all possible scenarios in a tabular format. Do not worry
